@@ -1,0 +1,7 @@
+c:\users\tigro\onedrive\documentos\visual studio 2015\Projects\Solution1\Presentador\bin\Debug\Presentador.dll
+c:\users\tigro\onedrive\documentos\visual studio 2015\Projects\Solution1\Presentador\bin\Debug\Presentador.pdb
+c:\users\tigro\onedrive\documentos\visual studio 2015\Projects\Solution1\Presentador\bin\Debug\Modelo.dll
+c:\users\tigro\onedrive\documentos\visual studio 2015\Projects\Solution1\Presentador\bin\Debug\Modelo.pdb
+c:\users\tigro\onedrive\documentos\visual studio 2015\Projects\Solution1\Presentador\obj\Debug\Presentador.csprojResolveAssemblyReference.cache
+c:\users\tigro\onedrive\documentos\visual studio 2015\Projects\Solution1\Presentador\obj\Debug\Presentador.dll
+c:\users\tigro\onedrive\documentos\visual studio 2015\Projects\Solution1\Presentador\obj\Debug\Presentador.pdb

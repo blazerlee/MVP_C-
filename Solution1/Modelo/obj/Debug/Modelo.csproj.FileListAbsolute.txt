@@ -1,0 +1,5 @@
+c:\users\tigro\onedrive\documentos\visual studio 2015\Projects\Solution1\Modelo\bin\Debug\Modelo.dll
+c:\users\tigro\onedrive\documentos\visual studio 2015\Projects\Solution1\Modelo\bin\Debug\Modelo.pdb
+c:\users\tigro\onedrive\documentos\visual studio 2015\Projects\Solution1\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+c:\users\tigro\onedrive\documentos\visual studio 2015\Projects\Solution1\Modelo\obj\Debug\Modelo.dll
+c:\users\tigro\onedrive\documentos\visual studio 2015\Projects\Solution1\Modelo\obj\Debug\Modelo.pdb
